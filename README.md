@@ -1,4 +1,4 @@
-# Hi, I'm K
+# Hi, I'm Khroti
 
 🎓 Final year B.Tech CSE @ NIT Nagaland  
 💻 Java | Python | C | HTML/CSS | PHP | JavaScript | MySQL | GDScript  
